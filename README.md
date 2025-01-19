@@ -14,6 +14,8 @@ Please see references to my first 3 Medium articles below:
 
 More are to come soon! A sneak peak of its working functionality is available at: https://thebetterstore.net, while its open-source respositories can be viewed at: https://github.com/TheBetterStore/ 
 
+Further information on this project can be found at: https://docs.thebetterstore.net
+
 <!--
 **BrycePC/BrycePC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
