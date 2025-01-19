@@ -6,13 +6,13 @@ Much of my learning outside of work is oriented around the creation and evolutio
 * Design and impplementation of microservices based on the Onion Architecture (predominantly using Node.js) with AWS serverless techologies.
 * Delivery of a full-stack application; ie microservices and a web-based frontend using Devops practices and Infrastructure as Code.
 
-Please see references to my first 2 Medium articles below:
+Please see references to my first 3 Medium articles below:
 
 * [Building “The Better Store” an agile cloud-native ecommerce system on AWS — Part 1: Introduction to Microservice Architecture] (https://servian.dev/building-the-better-store-a-global-resilient-and-agile-cloud-native-ecommerce-system-using-9e18d32cd8fa)
 * [Building “The Better Store” an agile cloud-native ecommerce system on AWS — Part 2: Defining DDD Strategic Patterns] (https://medium.com/@BrycePC/building-the-better-store-an-agile-cloud-native-ecommerce-system-on-aws-part-2-defining-ddd-f4523380bb1)
+* [Building “The Better Store” an agile cloud-native ecommerce system on AWS — Part 3: Defining DDD Tactical Patterns and Application Architecture] (https://medium.com/@BrycePC/building-the-better-store-an-agile-cloud-native-ecommerce-system-on-aws-part-3-defining-ddd-eaff7e660c57)
 
-
-More are to come soon!
+More are to come soon! A sneak peak of its working functionality is available at: https://thebetterstore.net, while its open-source respositories can be viewed at: https://github.com/TheBetterStore/ 
 
 <!--
 **BrycePC/BrycePC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
